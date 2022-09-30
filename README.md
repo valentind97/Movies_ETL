@@ -7,10 +7,13 @@ This project aims to construct an ETL pipeline that delivers a final comprehensi
 - Software: Postgres and PgAdmin 4
   - Python 3.7
     -   
-Results
-The count for the movies data was 6052.
+## Results
+### The count for the movies data was 6052.
 
-The count for the ratings data was 24289.
+### The count for the ratings data was 24289.
 
+Movies
 ![Movies_DB](/Resources/movies_query.png)
+
+Ratings
 ![Ratings_DB](/Resources/ratings_query.png)
